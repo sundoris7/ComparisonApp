@@ -1,0 +1,25 @@
+{
+    "name": "My rentals list",
+    "rentals": [
+        {
+            "bedrooms": 0,
+            "parking": false,
+            "size": 0,
+            "price": 0,
+            "laundry": false,
+            "name": "DT1",
+            "location": "",
+            "bathrooms": 0
+        },
+        {
+            "bedrooms": 0,
+            "parking": false,
+            "size": 0,
+            "price": 0,
+            "laundry": false,
+            "name": "YT1",
+            "location": "",
+            "bathrooms": 0
+        }
+    ]
+}

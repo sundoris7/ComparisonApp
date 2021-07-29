@@ -1,0 +1,25 @@
+{
+  "name": "My rentals list",
+  "rentals": [
+    {
+      "name": "DT1",
+      "price": 2000,
+      "location": "Downtown",
+      "size": 500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "laundry": true,
+      "parking": false
+    },
+    {
+      "name": "YT1",
+      "price": 2400,
+      "location": "Yaletown",
+      "size": 750,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "laundry": true,
+      "parking": true
+    }
+  ]
+}

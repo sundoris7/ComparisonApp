@@ -1,0 +1,45 @@
+{
+    "name": "My Rentals List",
+    "rentals": [
+        {
+            "bedrooms": 3,
+            "parking": false,
+            "size": 3000,
+            "price": 1000,
+            "laundry": false,
+            "name": "EX",
+            "location": "Van",
+            "bathrooms": 5
+        },
+        {
+            "bedrooms": 1,
+            "parking": true,
+            "size": 500,
+            "price": 900,
+            "laundry": false,
+            "name": "Ex2",
+            "location": "Vancouver",
+            "bathrooms": 0
+        },
+        {
+            "bedrooms": 1,
+            "parking": false,
+            "size": 500,
+            "price": 2000,
+            "laundry": true,
+            "name": "DT2",
+            "location": "Downtown",
+            "bathrooms": 1
+        },
+        {
+            "bedrooms": 2,
+            "parking": true,
+            "size": 750,
+            "price": 2400,
+            "laundry": true,
+            "name": "YT2",
+            "location": "Yaletown",
+            "bathrooms": 2
+        }
+    ]
+}
