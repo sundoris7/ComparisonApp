@@ -5,10 +5,10 @@
             "bedrooms": 3,
             "parking": false,
             "size": 3000,
-            "price": 1000,
+            "price": 3500,
             "laundry": false,
             "name": "EX",
-            "location": "Van",
+            "location": "NorVan",
             "bathrooms": 5
         },
         {
